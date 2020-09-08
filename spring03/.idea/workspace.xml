@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ddff71e-5c9e-4d3c-96ca-c3baabf77d78" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\GONGJU\maven\maven_repository" />
+        <option name="userSettingsFile" value="D:\GONGJU\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGLXpHm1qDxHyAqyXsinBF4FbV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ev" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GONGJU\IDEA\code\spring03\src\main\java\ev" />
+      <recent name="D:\GONGJU\IDEA\code\spring03\src\main\java" />
+      <recent name="D:\GONGJU\IDEA\code\spring03\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ev.ui.Client" />
+      <module name="spring03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ev.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\13014\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ddff71e-5c9e-4d3c-96ca-c3baabf77d78" name="默认更改列表" comment="" />
+      <created>1586357026003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586357026003</updated>
+      <workItem from="1586357028553" duration="6568000" />
+      <workItem from="1586399010972" duration="965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586361845520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586361845520" />
+    <state x="361" y="71" key="#项目结构" timestamp="1586363184937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#项目结构/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586363184937" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1586363751251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586363751251" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1586363751251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586363751251" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1586363751251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586363751251" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1586363751251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1586363751251" />
+  </component>
+</project>
